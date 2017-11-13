@@ -1,0 +1,28 @@
+{
+  "person1": {
+      "attr": [
+          {
+            "name":"person1"
+          },
+          {
+            "age":24
+          }
+      ],
+      "active": {
+          "say": "hello world!"
+      }
+  },
+  "person2": {
+      "attr": [
+        {
+          "name":"person1"
+        },
+        {
+          "age":23
+        }
+      ],
+      "active": {
+          "say": "hi world!"
+      }
+  }
+}
